@@ -10,4 +10,3 @@
 </div>
 
 ![João's github stats](https://github-readme-stats.vercel.app/api?username=JoaoGabrielGS&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoaoGabrielGS)
