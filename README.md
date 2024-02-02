@@ -1,8 +1,5 @@
 ## 👋🏽 Hi everyone, my name's João Gabriel and i'm front-end developer!
 
-![João's github stats](https://github-readme-stats.vercel.app/api?username=JoaoGabrielGS&show_icons=true&theme=tokyonight)
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Biel-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
